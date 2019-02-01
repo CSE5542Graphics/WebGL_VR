@@ -6,7 +6,13 @@ cd to the directory that contains the htnl file, in this case:
 cd WebGL_VR-master
 ```
 Run
-
+```
+python -m http.server
+```
+Open your browser and enter the following as URL:
+```
+http://localhost:8000
+```
 
 Modified from http://vr.chromeexperiments.com/cardboard.zip 
 
